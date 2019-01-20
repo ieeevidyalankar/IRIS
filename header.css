@@ -12,7 +12,6 @@ header{
     background-attachment: fixed;
 
 }
-
 .side-nav{
     z-index: 1000;
 }
@@ -27,7 +26,6 @@ nav{
     width: 80%;
     margin: 0 10% 0 10%;
     max-block-size: 100%;
-    border: 1px solid red;
     position: absolute;
     top: 85vh;
     display: flex;
