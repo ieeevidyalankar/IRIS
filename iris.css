@@ -41,8 +41,12 @@ text-decoration: none;
     align-items: center;
     justify-content: center;
     color: white;
-    font-family: cursive;
+    font-family: Raleway;
 
+}
+.reg-button{
+    position: absolute;
+    top: 75vh;
 }
 
 .intro{
